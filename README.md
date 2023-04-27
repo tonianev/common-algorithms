@@ -12,6 +12,9 @@ This repository contains implementations of common algorithms in Python, categor
 - [Linear Search](src/searching/linear_search.py)
 - [Binary Search](src/searching/binary_search.py)
 
+### Graph Algorithms
+- [Dijkstra](src/graph_algorithms/dijkstra.py)
+
 ## Getting Started
 
 1. Clone the repository: git clone https://github.com/yourusername/common_algorithms.git
